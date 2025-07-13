@@ -1,0 +1,13 @@
+tunisia-road-network-resilience/
+├── data/
+│   ├── tunisia_roads.shp
+│   ├── sea_level_rise.tif
+│   └── hospitals.shp
+├── scripts/
+│   ├── preprocess_layers.py
+│   ├── compute_vulnerability.py
+│   └── visualize_network.py
+├── results/
+│   └── vulnerability_map.png
+├── README.md
+└── requirements.txt
